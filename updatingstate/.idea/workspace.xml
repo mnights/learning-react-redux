@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand />
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="024c16b1-94b3-434e-b5bb-cbefdd89b7c4" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../components" beforeDir="false" afterPath="$PROJECT_DIR$/../components" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jsx" beforeDir="false" afterPath="$PROJECT_DIR$/../jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pics" beforeDir="false" afterPath="$PROJECT_DIR$/../pics" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../remotefilter" beforeDir="false" afterPath="$PROJECT_DIR$/../remotefilter" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seasons" beforeDir="false" afterPath="$PROJECT_DIR$/../seasons" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos" beforeDir="false" afterPath="$PROJECT_DIR$/../videos" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1gxhKQ4j7y1nxIpg7U3vaw2m0xB" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="024c16b1-94b3-434e-b5bb-cbefdd89b7c4" name="Default Changelist" comment="" />
+      <created>1599062086673</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1599062086673</updated>
+      <workItem from="1599062087827" duration="26000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
